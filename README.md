@@ -33,23 +33,3 @@ Built with clean layered architecture (Controller → Service → Repository), D
 | Validation    | Spring Boot Starter Validation       |
 | Mapping       | ModelMapper                          |
 | Build Tool    | Maven                                |
-
----
-
-## 📂 Project Structure
-
-ecommerce-customer-api/
-├── src/
-│ ├── main/java/org/yasinkanli/ecommercecustomerapi/
-│ │ ├── controller/
-│ │ ├── service/
-│ │ ├── repository/
-│ │ ├── entity/
-│ │ ├── dto/
-│ │ ├── exception/
-│ │ ├── mapper/
-│ │ └── config/
-│ └── resources/
-│ └── schema.sql
-├── pom.xml
-└── README.md
